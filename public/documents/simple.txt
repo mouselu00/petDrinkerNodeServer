@@ -1,0 +1,2 @@
+ssid:abcd
+password:123123132123
